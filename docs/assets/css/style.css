@@ -2312,15 +2312,6 @@ hr {
   margin-bottom: 20px;
   display: block;
 }
-#page-footer .brand-center {
-  margin-bottom: 20px;
-  display: block;
-}
-@media screen and (max-width: 768px) {
-  .brand-center {
-    text-align: center;
-  }
-}
 #page-footer .numbers {
   margin-top: 250px;
 }
